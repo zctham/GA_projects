@@ -7,6 +7,7 @@ In this project, we will be looking at creating a binary classifier to classify 
 ### Problem Statement 
 ---
 With the increasing popularity of data, technology and their uses in the past decade, it seems that the age of technology is here to stay. Not only is the world learning to harness the power of data, it is also learning to live with it. It comes as no surprise that such a relatively new industry attracts many talents to join in and seek a career from within, be it for the lucrative remuneration, or its challenges. We will be using data from two subreddits, 'datascience' and 'dataengineering' to understand, from a career switcher's point of view, the key differences between the two and if the results will enable him/her to decide which path to pivot to, taking into account his/her skillsets, academic qualification and interests.
+
 ---
 ### Data Dictionary
 
@@ -18,6 +19,7 @@ With the increasing popularity of data, technology and their uses in the past de
 |title lemmatized|str|datascience_posts/dataengineering_posts|title after lemmatizing|
 |selftext lemmatized|str|datascience_posts/dataengineering_posts|selftext after lemmatizing|
 |lemma_comb|str|datascience_posts/dataengineering_posts|merge of title lemmatized and selftext lemmatized| 
+
 ---
 ### Conclusions and Recommendations
 ---
