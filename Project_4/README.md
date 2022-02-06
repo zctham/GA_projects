@@ -29,7 +29,7 @@ With the created time lag features from the temperature, rainfall and humidity f
 ### Model Evluation
 
 <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
-	<caption>Model Results (Sorted by Test AUC)</caption>
+	<caption>Model Results</caption>
 	<thead>
 		<tr>
 			<th class="dcf-txt-center" data-label="Model" scope="col">Model</th>
