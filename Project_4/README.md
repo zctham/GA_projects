@@ -26,7 +26,7 @@ We also noted that the time lag features created seem to have the strongest in p
 With the created time lag features from the temperature, rainfall and humidity features showing more predictive power, it is then possible to assume that the mentioned features can be viewed as potential lead indicators of the virus occurrence. A lead indicator shows a change in direction before a corresponding change in the target variable. This assists in anticipating when the virus occurrences are on the rise before it even happens. 
 
 
-### Model Evluation
+### Model Evaluation
 
 <table class="dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%">
 	<caption>Model Results</caption>
