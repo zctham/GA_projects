@@ -11,7 +11,7 @@ In a very general way, recommender systems are algorithms aimed at suggesting re
 
 In this capstone project, we will be looking into recommendation system for anime titles. While this may not translate into earnings of any sort for any company, the algorithm used will be largely similar to what is being deployed in industries today. Measure of success will be evaluated with a RMSE score and a metric 'MAP@K' or 'Mean Average Precision at k', which translates to how many anime titles are relevant out of 'k' number of anime titles recommended. 
 
-Dataset for the project (rating dataset) can be found [here](https://www.kaggle.com/CooperUnion/anime-recommendations-database) and [here](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020).
+Dataset for the project (rating dataset) can be found [here](https://www.kaggle.com/CooperUnion/anime-recommendations-database) and dataset for synopsis [here](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020).
 
 Dataset for anime_clean can be found [here](https://www.kaggle.com/thamzhicong/anime-clean).
 
